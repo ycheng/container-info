@@ -1,0 +1,13 @@
+12:rdma:/
+11:perf_event:/kubepods/besteffort/pod8ec52131-2f62-4a9f-b192-315979d768b8/34d21af52d0adedaf0456fd179b06b4d8ae0511b396a2fd2aefe6c02e993585e/758ad8cc-fff1-42d2-76d9-a379a09163e8
+10:memory:/kubepods/besteffort/pod8ec52131-2f62-4a9f-b192-315979d768b8/34d21af52d0adedaf0456fd179b06b4d8ae0511b396a2fd2aefe6c02e993585e/758ad8cc-fff1-42d2-76d9-a379a09163e8
+9:net_cls,net_prio:/kubepods/besteffort/pod8ec52131-2f62-4a9f-b192-315979d768b8/34d21af52d0adedaf0456fd179b06b4d8ae0511b396a2fd2aefe6c02e993585e/758ad8cc-fff1-42d2-76d9-a379a09163e8
+8:devices:/kubepods/besteffort/pod8ec52131-2f62-4a9f-b192-315979d768b8/34d21af52d0adedaf0456fd179b06b4d8ae0511b396a2fd2aefe6c02e993585e/758ad8cc-fff1-42d2-76d9-a379a09163e8
+7:freezer:/kubepods/besteffort/pod8ec52131-2f62-4a9f-b192-315979d768b8/34d21af52d0adedaf0456fd179b06b4d8ae0511b396a2fd2aefe6c02e993585e/758ad8cc-fff1-42d2-76d9-a379a09163e8
+6:hugetlb:/kubepods/besteffort/pod8ec52131-2f62-4a9f-b192-315979d768b8/34d21af52d0adedaf0456fd179b06b4d8ae0511b396a2fd2aefe6c02e993585e/758ad8cc-fff1-42d2-76d9-a379a09163e8
+5:cpuset:/kubepods/besteffort/pod8ec52131-2f62-4a9f-b192-315979d768b8/34d21af52d0adedaf0456fd179b06b4d8ae0511b396a2fd2aefe6c02e993585e/758ad8cc-fff1-42d2-76d9-a379a09163e8
+4:blkio:/kubepods/besteffort/pod8ec52131-2f62-4a9f-b192-315979d768b8/34d21af52d0adedaf0456fd179b06b4d8ae0511b396a2fd2aefe6c02e993585e/758ad8cc-fff1-42d2-76d9-a379a09163e8
+3:pids:/kubepods/besteffort/pod8ec52131-2f62-4a9f-b192-315979d768b8/34d21af52d0adedaf0456fd179b06b4d8ae0511b396a2fd2aefe6c02e993585e/758ad8cc-fff1-42d2-76d9-a379a09163e8
+2:cpu,cpuacct:/kubepods/besteffort/pod8ec52131-2f62-4a9f-b192-315979d768b8/34d21af52d0adedaf0456fd179b06b4d8ae0511b396a2fd2aefe6c02e993585e/758ad8cc-fff1-42d2-76d9-a379a09163e8
+1:name=systemd:/kubepods/besteffort/pod8ec52131-2f62-4a9f-b192-315979d768b8/34d21af52d0adedaf0456fd179b06b4d8ae0511b396a2fd2aefe6c02e993585e/758ad8cc-fff1-42d2-76d9-a379a09163e8
+0::/system.slice/snap.microk8s.daemon-containerd.service
