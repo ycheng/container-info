@@ -1,0 +1,13 @@
+12:rdma:/
+11:perf_event:/kubepods/besteffort/pod1434238c-34ef-4590-a0e8-f46dd7276a10/aeff138a45ba0a2a56e219abd79e64d61b1e1298e8e96b05741bd572b71c85d3
+10:memory:/kubepods/besteffort/pod1434238c-34ef-4590-a0e8-f46dd7276a10/aeff138a45ba0a2a56e219abd79e64d61b1e1298e8e96b05741bd572b71c85d3
+9:net_cls,net_prio:/kubepods/besteffort/pod1434238c-34ef-4590-a0e8-f46dd7276a10/aeff138a45ba0a2a56e219abd79e64d61b1e1298e8e96b05741bd572b71c85d3
+8:devices:/kubepods/besteffort/pod1434238c-34ef-4590-a0e8-f46dd7276a10/aeff138a45ba0a2a56e219abd79e64d61b1e1298e8e96b05741bd572b71c85d3
+7:freezer:/kubepods/besteffort/pod1434238c-34ef-4590-a0e8-f46dd7276a10/aeff138a45ba0a2a56e219abd79e64d61b1e1298e8e96b05741bd572b71c85d3
+6:hugetlb:/kubepods/besteffort/pod1434238c-34ef-4590-a0e8-f46dd7276a10/aeff138a45ba0a2a56e219abd79e64d61b1e1298e8e96b05741bd572b71c85d3
+5:cpuset:/kubepods/besteffort/pod1434238c-34ef-4590-a0e8-f46dd7276a10/aeff138a45ba0a2a56e219abd79e64d61b1e1298e8e96b05741bd572b71c85d3
+4:blkio:/kubepods/besteffort/pod1434238c-34ef-4590-a0e8-f46dd7276a10/aeff138a45ba0a2a56e219abd79e64d61b1e1298e8e96b05741bd572b71c85d3
+3:pids:/kubepods/besteffort/pod1434238c-34ef-4590-a0e8-f46dd7276a10/aeff138a45ba0a2a56e219abd79e64d61b1e1298e8e96b05741bd572b71c85d3
+2:cpu,cpuacct:/kubepods/besteffort/pod1434238c-34ef-4590-a0e8-f46dd7276a10/aeff138a45ba0a2a56e219abd79e64d61b1e1298e8e96b05741bd572b71c85d3
+1:name=systemd:/kubepods/besteffort/pod1434238c-34ef-4590-a0e8-f46dd7276a10/aeff138a45ba0a2a56e219abd79e64d61b1e1298e8e96b05741bd572b71c85d3
+0::/system.slice/snap.microk8s.daemon-containerd.service
