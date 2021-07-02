@@ -1,0 +1,13 @@
+12:cpuset:/72441fa6-cbe1-4ceb-6421-0e47ecd23764
+11:freezer:/72441fa6-cbe1-4ceb-6421-0e47ecd23764
+10:pids:/user.slice/user-1000.slice/session-2.scope/72441fa6-cbe1-4ceb-6421-0e47ecd23764
+9:memory:/user.slice/user-1000.slice/session-2.scope/72441fa6-cbe1-4ceb-6421-0e47ecd23764
+8:rdma:/
+7:perf_event:/72441fa6-cbe1-4ceb-6421-0e47ecd23764
+6:devices:/user.slice/72441fa6-cbe1-4ceb-6421-0e47ecd23764
+5:net_cls,net_prio:/72441fa6-cbe1-4ceb-6421-0e47ecd23764
+4:cpu,cpuacct:/72441fa6-cbe1-4ceb-6421-0e47ecd23764
+3:blkio:/72441fa6-cbe1-4ceb-6421-0e47ecd23764
+2:hugetlb:/72441fa6-cbe1-4ceb-6421-0e47ecd23764
+1:name=systemd:/user.slice/user-1000.slice/session-2.scope/72441fa6-cbe1-4ceb-6421-0e47ecd23764
+0::/user.slice/user-1000.slice/session-2.scope
